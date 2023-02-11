@@ -9,7 +9,7 @@ int main(){
 
     IMC = massa/(altura*altura);
 
-    printf("O IMC de uma pessoa com peso %.2f kg e altura %.2f m é igual a %.2f.\n", massa, altura, IMC);
+    printf("O IMC de uma pessoa com peso %.2f kg e altura %.2f m eh igual a %.2f.\n", massa, altura, IMC);
 
     return 0;
 

@@ -8,7 +8,7 @@ int main(){
 
     area = M_PI*pow(raio, 2);
 
-    printf("Um círculo com raio %.2f tem área igual a %.2f.\n", raio, area);
+    printf("Um circulo com raio %.2f tem area igual a %.2f.\n", raio, area);
 
     return 0;
 }
