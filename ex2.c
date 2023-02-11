@@ -2,9 +2,9 @@
 
 int main(){
     float massa, altura, IMC;
-    printf("Qual a massa da pessoa? ");
+    printf("Digite a massa da pessoa em kg: ");
     scanf("%f", &massa);
-    printf("Qual a altura da pessoa? ");
+    printf("Digite a altura da pessoa em m: ");
     scanf("%f", &altura);
 
     IMC = massa/(altura*altura);

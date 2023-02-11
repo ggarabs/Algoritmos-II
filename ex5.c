@@ -11,5 +11,4 @@ int main(){
     printf("Um círculo com raio %.2f tem área igual a %.2f.\n", raio, area);
 
     return 0;
-    
 }
